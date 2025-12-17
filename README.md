@@ -22,7 +22,7 @@ Use the `git clone` command to download the project files to your local machine.
 
 
 # Clone the repository using the HTTPS link
-git clone (https://github.com/christineoure/sern_ease_app.git)
+git clone ((https://github.com/priscilla-mikisa/serene_ease_app.git))
 
 # Navigate into the project directory
 cd seren_ease_scraper
